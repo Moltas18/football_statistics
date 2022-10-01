@@ -1,1 +1,1 @@
-print("This is my statistics parser")
+print("This is my statistics AI")
